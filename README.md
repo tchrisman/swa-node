@@ -28,7 +28,7 @@ Team Node is comprised of four graduate students at the University of Nebraska a
 ### About Wagtail
 Wagtail is an open-source content management system (CMS) built upon Node.js and the Django web framework. Wagtail is designed with ease-of-use as a primary focus, providing content editors with powerful yet intuitive management controls.
 
-Wagtail is in active development. As of November 8, 2016, the Wagtail GitHub repository had 6,689 commits, 414 open issues, 90 pull requests, and 190 contributors. For the sake of comparison, there were 6,531 commits, 406 open issues, 91 pull requests, and 179 contributors on September 12, 2016, the first date these statistics were observed by Team Node.
+Wagtail is in active development. As of November 9, 2016, the Wagtail GitHub repository had 6,699 commits, 416 open issues, 89 pull requests, and 190 contributors. For the sake of comparison, there were 6,531 commits, 406 open issues, 91 pull requests, and 179 contributors on September 12, 2016, the first date these statistics were observed by Team Node.
 
 #### Wagtail Links
 - [Wagtail Home Page](https://wagtail.io)
