@@ -15,6 +15,7 @@ Team Node project repository for the [Software Assurance](https://github.com/rob
 ## About the Project
 - [Project Proposal](https://drive.google.com/open?id=1ele-mbD_5RFMFqCpJ0bn4leQvsEllDpxtg_46TSda4k)
 - [Requirements and Design](https://drive.google.com/open?id=1am6T0ucWgfArJfAU6m7cysczxbWEyKXdqGcmb2-u_y8)
+- [Code Analysis and Testing](https://docs.google.com/document/d/1vMyjEnte2JbPicHYEgkn8B-seTEVeNLcAxDg4AG8gQ0/edit#heading=h.vr0hx9tvc192)
 
 ### About Team Node
 Team Node is comprised of four graduate students at the University of Nebraska at Omaha (UNO). Two graduate degrees are represented by the team: Computer Science and Information Assurance. The background, interests, and strengths of each member enables Team Node to expertly manage each stage of the software development lifecycle.
